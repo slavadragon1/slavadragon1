@@ -1,36 +1,30 @@
 ## Hello world
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi my name is Slava. Stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='12'> Python /
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width='12'> Pytorch /
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width='12'> Flask /
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='12'> Java / 
-/ Sketch
-
-，是 [妙言](https://miaoyan.app/) / [Pake](https://github.com/tw93/pake) / [潮流周刊](https://weekly.tw93.fun/) / [XRender](https://xrender.fun/) / [WeexUi](https://apache.github.io/incubator-weex-ui/) 的作者，信长期主义，喜欢开源，也很喜欢折腾，以下内容通过 <a href="https://github.com/tw93/tw93/actions" target="_blank">Actions</a> 自动更新：
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='12'> Python 
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width='12'> Pytorch 
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width='12'> Flask 
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='12'> Java 
+<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width='12'/> Microsoft SQL server 
 
 <table width="960px">
 <tr>
 <td valign="top" width="50%">
 
-#### 🏊‍♂️ Weekly Development Breakdown
-
-![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
-
-![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slavadragon1)](https://github.com/anuraghazra/github-readme-stats)
+  
 </td>
 <td valign="top" width="50%">
 
-#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Product Releases</a>
+#### 🏋️‍♀️ <a href="https://github.com/tw93/tw93/blob/master/releases.md" target="_blank">Can also</a>
+  <div margin='12'>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width='12'> HTML </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width='12'> CSS </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='12'> JavaScript  </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width='12' /> Photoshop </br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='12'/> Layout of Figma layouts
+  </div>
 
-<!-- recent_releases starts -->
-* <a href='https://github.com/tw93/Pake/releases/tag/V2.0.0' target='_blank'>Pake 🤱🏻 1.0 -> 👩🏻‍🍼 2.0</a> - 2023-04-29
-* <a href='https://github.com/tw93/MiaoYan/releases/tag/V1.10.1' target='_blank'>MiaoYan 更妙了 🎉</a> - 2023-03-30
-* <a href='https://github.com/tw93/tw93.github.io/releases/tag/V0.3.0' target='_blank'>tw93.github.io 翻新一下博客</a> - 2022-11-08
-* <a href='https://github.com/tw93/weekly/releases/tag/V0.1' target='_blank'>weekly 终于有自己的展示网站了</a> - 2022-10-14
-* <a href='https://github.com/tw93/umi-plugin-console/releases/tag/v0.2.2' target='_blank'>umi-plugin-console 大幅度更新</a> - 2020-08-19
-<!-- recent_releases ends -->
 
 </td>
 </tr>
