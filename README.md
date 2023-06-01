@@ -54,7 +54,7 @@
 * I like to play chess
 * Level of english: B1-B2
 * Goal: become highly qualified specialist
-* Interest in development Desktop software, OS, Web, ML
+* Interest in development IOT, Desktop software, OS, Web, ML
 
 <!-- weekly ends -->
 
